@@ -1,2 +1,2 @@
--- solucion.pl
--- grupo: 
+%% solucion.pl
+%% alumno: 
